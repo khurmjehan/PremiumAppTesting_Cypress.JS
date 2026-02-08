@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="26.176" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-02-08T00:16:43" tests="0" file="cypress\e2e\PremiumApp_Testing.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Premium App Testing" timestamp="2026-02-08T00:16:43" tests="1" time="26.170" failures="0">
+    <testcase name="Premium App Testing Full flow: Sign Up, Add Inventory, Request Test Drive, Get Financing" time="26.106" classname="Full flow: Sign Up, Add Inventory, Request Test Drive, Get Financing">
+    </testcase>
+  </testsuite>
+</testsuites>
